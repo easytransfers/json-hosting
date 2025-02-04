@@ -1,0 +1,2225 @@
+{
+    "Table 1":[
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Arbanija, Croatia",
+      "km": 9,
+      "time": "00:25",
+      "price for 1-2 persons": 32,
+      "price for 3-8 persons": 37,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Baška Voda, Croatia",
+      "km": 90,
+      "time": "01:20",
+      "price for 1-2 persons": 95,
+      "price for 3-8 persons": 105,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Baška, island of Krk",
+      "km": 360,
+      "time": "04:10",
+      "price for 1-2 persons": 437,
+      "price for 3-8 persons": 497,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Bibinje, Croatia",
+      "km": 127,
+      "time": "01:50",
+      "price for 1-2 persons": 140,
+      "price for 3-8 persons": 160,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Biograd na moru, Croatia",
+      "km": 110,
+      "time": "01:35",
+      "price for 1-2 persons": 130,
+      "price for 3-8 persons": 145,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Bratuš, Krvavica, Croatia",
+      "km": 94,
+      "time": "01:30",
+      "price for 1-2 persons": 100,
+      "price for 3-8 persons": 115,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Brodarica, Croatia",
+      "km": 60,
+      "time": "00:55",
+      "price for 1-2 persons": 76,
+      "price for 3-8 persons": 86,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Brela, Croatia",
+      "km": 87,
+      "time": "01:15",
+      "price for 1-2 persons": 92,
+      "price for 3-8 persons": 102,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Budva, Montenegro",
+      "km": 369,
+      "time": "06:00",
+      "price for 1-2 persons": 590,
+      "price for 3-8 persons": 670,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Cavtat, Croatia",
+      "km": 272,
+      "time": "04:15",
+      "price for 1-2 persons": 330,
+      "price for 3-8 persons": 370,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Crikvenica, Croatia",
+      "km": 301,
+      "time": "04:00",
+      "price for 1-2 persons": 383,
+      "price for 3-8 persons": 440,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Drage, Croatia",
+      "km": 99,
+      "time": "01:40",
+      "price for 1-2 persons": 109,
+      "price for 3-8 persons": 124,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Drašnice, Croatia",
+      "km": 110,
+      "time": "01:45",
+      "price for 1-2 persons": 120,
+      "price for 3-8 persons": 140,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Drvenik, Croatia",
+      "km": 126,
+      "time": "02:00",
+      "price for 1-2 persons": 135,
+      "price for 3-8 persons": 155,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Dubrovnik, Croatia",
+      "km": 254,
+      "time": "03:45",
+      "price for 1-2 persons": 285,
+      "price for 3-8 persons": 299,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Duće, Croatia",
+      "km": 42,
+      "time": "00:50",
+      "price for 1-2 persons": 62,
+      "price for 3-8 persons": 72,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Dugopolje, Croatia",
+      "km": 28,
+      "time": "00:40",
+      "price for 1-2 persons": 52,
+      "price for 3-8 persons": 57,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Dugi Rat, Croatia",
+      "km": 40,
+      "time": "00:55",
+      "price for 1-2 persons": 60,
+      "price for 3-8 persons": 70,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Gradac, Croatia",
+      "km": 137,
+      "time": "02:10",
+      "price for 1-2 persons": 145,
+      "price for 3-8 persons": 165,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Grebaštica, Croatia",
+      "km": 52,
+      "time": "01:00",
+      "price for 1-2 persons": 70,
+      "price for 3-8 persons": 80,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Igrane, Croatia",
+      "km": 115,
+      "time": "01:45",
+      "price for 1-2 persons": 125,
+      "price for 3-8 persons": 145,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Imotski, Croatia",
+      "km": 93,
+      "time": "02.00",
+      "price for 1-2 persons": 105,
+      "price for 3-8 persons": 120,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Jesenice,Croatia",
+      "km": 35,
+      "time": "00:40",
+      "price for 1-2 persons": 56,
+      "price for 3-8 persons": 66,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Kaštela, Croatia",
+      "km": 10,
+      "time": "00:20",
+      "price for 1-2 persons": 32,
+      "price for 3-8 persons": 37,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Kaštela, Croatia",
+      "km": 12,
+      "time": "00:25",
+      "price for 1-2 persons": 34,
+      "price for 3-8 persons": 39,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Krk, Croatia",
+      "km": 344,
+      "time": "04:00",
+      "price for 1-2 persons": 490,
+      "price for 3-8 persons": 500,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Lokva Rogoznica, Croatia",
+      "km": 55,
+      "time": "01:00",
+      "price for 1-2 persons": 68,
+      "price for 3-8 persons": 78,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Lovran, Croatia",
+      "km": 426,
+      "time": "04:20",
+      "price for 1-2 persons": 520,
+      "price for 3-8 persons": 539,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Makarska, Croatia",
+      "km": 100,
+      "time": "01:40",
+      "price for 1-2 persons": 105,
+      "price for 3-8 persons": 120,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Marina, Croatia",
+      "km": 26,
+      "time": "00:35",
+      "price for 1-2 persons": 45,
+      "price for 3-8 persons": 50,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Mimice",
+      "km": 56,
+      "time": "01:15",
+      "price for 1-2 persons": 71,
+      "price for 3-8 persons": 81,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Mostar, Bosnia and Hercegovina",
+      "km": 194,
+      "time": "03:20",
+      "price for 1-2 persons": 210,
+      "price for 3-8 persons": 220,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Medjugorje, Bosnia and Hercegovina",
+      "km": 167,
+      "time": "02:40",
+      "price for 1-2 persons": 190,
+      "price for 3-8 persons": 200,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Murter, Croatia",
+      "km": 95,
+      "time": "01:40",
+      "price for 1-2 persons": 105,
+      "price for 3-8 persons": 115,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Mutogras, Podstrana, Croatia",
+      "km": 35,
+      "time": "00:45",
+      "price for 1-2 persons": 52,
+      "price for 3-8 persons": 62,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Nin, Croatia",
+      "km": 145,
+      "time": "02:00",
+      "price for 1-2 persons": 170,
+      "price for 3-8 persons": 190,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Novalja, Croatia",
+      "km": 187,
+      "time": "02:30",
+      "price for 1-2 persons": 250,
+      "price for 3-8 persons": 270,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Omiš, Croatia",
+      "km": 48,
+      "time": "00:50",
+      "price for 1-2 persons": 65,
+      "price for 3-8 persons": 75,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Okrug, Croatia",
+      "km": 14,
+      "time": "00:30",
+      "price for 1-2 persons": 35,
+      "price for 3-8 persons": 40,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Opatija, Croatia",
+      "km": 413,
+      "time": "04:05",
+      "price for 1-2 persons": 509,
+      "price for 3-8 persons": 529,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Orebić, Croatia",
+      "km": 215,
+      "time": "04:00",
+      "price for 1-2 persons": 259,
+      "price for 3-8 persons": 289,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Pag, Croatia",
+      "km": 172,
+      "time": "02:00",
+      "price for 1-2 persons": 210,
+      "price for 3-8 persons": 220,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Pakoštane, Croatia",
+      "km": 107,
+      "time": "01:35",
+      "price for 1-2 persons": 125,
+      "price for 3-8 persons": 140,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Petrčane, Croatia",
+      "km": 141,
+      "time": "01:55",
+      "price for 1-2 persons": 167,
+      "price for 3-8 persons": 187,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Pisak, Croatia",
+      "km": 59,
+      "time": "01:05",
+      "price for 1-2 persons": 75,
+      "price for 3-8 persons": 85,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Pirovac, Croatia",
+      "km": 92,
+      "time": "01:40",
+      "price for 1-2 persons": 102,
+      "price for 3-8 persons": 112,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Plitvice Lakes National Park, Croatia",
+      "km": 225,
+      "time": "03:00",
+      "price for 1-2 persons": 289,
+      "price for 3-8 persons": 299,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Ploče, Croatia",
+      "km": 151,
+      "time": "01:50",
+      "price for 1-2 persons": 170,
+      "price for 3-8 persons": 180,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Podgora, Croatia",
+      "km": 106,
+      "time": "01:40",
+      "price for 1-2 persons": 115,
+      "price for 3-8 persons": 130,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Podstrana, Croatia",
+      "km": 30,
+      "time": "00:40",
+      "price for 1-2 persons": 50,
+      "price for 3-8 persons": 55,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Gornja Podstrana, Podstrana, Croatia",
+      "km": 35,
+      "time": "00:45",
+      "price for 1-2 persons": 52,
+      "price for 3-8 persons": 62,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Poljica, Croatia",
+      "km": 17,
+      "time": "00:20",
+      "price for 1-2 persons": 38,
+      "price for 3-8 persons": 43,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Poreč, Croatia",
+      "km": 475,
+      "time": "05:15",
+      "price for 1-2 persons": 635,
+      "price for 3-8 persons": 649,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Primošten, Croatia",
+      "km": 40,
+      "time": "00:45",
+      "price for 1-2 persons": 60,
+      "price for 3-8 persons": 70,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Promajna, Croatia",
+      "km": 92,
+      "time": "01:30",
+      "price for 1-2 persons": 97,
+      "price for 3-8 persons": 112,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Pula, Croatia",
+      "km": 491,
+      "time": "05:20",
+      "price for 1-2 persons": 640,
+      "price for 3-8 persons": 659,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Ražanj, Croatia",
+      "km": 35,
+      "time": "00:45",
+      "price for 1-2 persons": 55,
+      "price for 3-8 persons": 65,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Rogoznica, Croatia",
+      "km": 36,
+      "time": "00:40",
+      "price for 1-2 persons": 56,
+      "price for 3-8 persons": 66,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Rovinj, Croatia",
+      "km": 478,
+      "time": "05:15",
+      "price for 1-2 persons": 620,
+      "price for 3-8 persons": 635,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Rijeka, Croatia",
+      "km": 406,
+      "time": "04:15",
+      "price for 1-2 persons": 510,
+      "price for 3-8 persons": 530,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Sarajevo, Bosnia and Hercegovina",
+      "km": 295,
+      "time": "04:30",
+      "price for 1-2 persons": 410,
+      "price for 3-8 persons": 420,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Seget Donji, Croatia",
+      "km": 9,
+      "time": "00:25",
+      "price for 1-2 persons": 32,
+      "price for 3-8 persons": 37,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Seget Vranjic, Croatia",
+      "km": 12,
+      "time": "00:30",
+      "price for 1-2 persons": 35,
+      "price for 3-8 persons": 40,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Sevid, Croatia",
+      "km": 34,
+      "time": "00:45",
+      "price for 1-2 persons": 53,
+      "price for 3-8 persons": 63,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Sinj, Croatia",
+      "km": 40,
+      "time": "00:45",
+      "price for 1-2 persons": 60,
+      "price for 3-8 persons": 70,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Skradin, Croatia",
+      "km": 77,
+      "time": "01:15",
+      "price for 1-2 persons": 87,
+      "price for 3-8 persons": 97,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Slano, Croatia",
+      "km": 221,
+      "time": "03:15",
+      "price for 1-2 persons": 270,
+      "price for 3-8 persons": 285,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Slatine, Croatia",
+      "km": 12,
+      "time": "00:30",
+      "price for 1-2 persons": 34,
+      "price for 3-8 persons": 39,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Solaris, Zablaće, Šibenik, Croatia",
+      "km": 65,
+      "time": "01:00",
+      "price for 1-2 persons": 79,
+      "price for 3-8 persons": 85,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Solin, Croatia",
+      "km": 20,
+      "time": "00:30",
+      "price for 1-2 persons": 38,
+      "price for 3-8 persons": 42,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Ferry Port of Split, Gat Sv. Petra, Split, Croatia",
+      "km": 26,
+      "time": "00:40",
+      "price for 1-2 persons": 45,
+      "price for 3-8 persons": 50,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 24,
+      "time": "00:35",
+      "price for 1-2 persons": 45,
+      "price for 3-8 persons": 49,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Srima, Croatia",
+      "km": 80,
+      "time": "01:20",
+      "price for 1-2 persons": 90,
+      "price for 3-8 persons": 100,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Stanići, Croatia",
+      "km": 52,
+      "time": "01:00",
+      "price for 1-2 persons": 67,
+      "price for 3-8 persons": 77,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Sukošan, Croatia",
+      "km": 125,
+      "time": "01:45",
+      "price for 1-2 persons": 138,
+      "price for 3-8 persons": 153,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Sumpetar, Jesenice, Croatia",
+      "km": 37,
+      "time": "00:45",
+      "price for 1-2 persons": 58,
+      "price for 3-8 persons": 68,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Starigrad Paklenica, Starigrad, Croatia",
+      "km": 159,
+      "time": "02:00",
+      "price for 1-2 persons": 187,
+      "price for 3-8 persons": 217,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Stobreč, Croatia",
+      "km": 25,
+      "time": "00:40",
+      "price for 1-2 persons": 43,
+      "price for 3-8 persons": 48,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Ston, Croatia",
+      "km": 200,
+      "time": "03:00",
+      "price for 1-2 persons": 259,
+      "price for 3-8 persons": 260,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Šibenik, Croatia",
+      "km": 70,
+      "time": "01:00",
+      "price for 1-2 persons": 80,
+      "price for 3-8 persons": 90,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Tisno, Croatia",
+      "km": 89,
+      "time": "01:30",
+      "price for 1-2 persons": 109,
+      "price for 3-8 persons": 119,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Tribunj, Croatia",
+      "km": 85,
+      "time": "01:20",
+      "price for 1-2 persons": 95,
+      "price for 3-8 persons": 105,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Trogir, Croatia",
+      "km": 6,
+      "time": "00:20",
+      "price for 1-2 persons": 30,
+      "price for 3-8 persons": 35,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Tučepi, Croatia",
+      "km": 103,
+      "time": "01:40",
+      "price for 1-2 persons": 110,
+      "price for 3-8 persons": 125,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Umag, Croatia",
+      "km": 488,
+      "time": "05:10",
+      "price for 1-2 persons": 630,
+      "price for 3-8 persons": 675,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Vinišće, Croatia",
+      "km": 35,
+      "time": "00:45",
+      "price for 1-2 persons": 52,
+      "price for 3-8 persons": 62,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Vodice, Croatia",
+      "km": 82,
+      "time": "01:15",
+      "price for 1-2 persons": 92,
+      "price for 3-8 persons": 102,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Zadar, Croatia",
+      "km": 140,
+      "time": "01:50",
+      "price for 1-2 persons": 170,
+      "price for 3-8 persons": 180,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Zagreb, Croatia",
+      "km": 415,
+      "time": "04:15",
+      "price for 1-2 persons": 450,
+      "price for 3-8 persons": 465,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Zaton, Dubrovnik, Croatia",
+      "km": 246,
+      "time": "03:30",
+      "price for 1-2 persons": 290,
+      "price for 3-8 persons": 310,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Zaton, Šibensko-kninska županija, Croatia",
+      "km": 75,
+      "time": "01:10",
+      "price for 1-2 persons": 85,
+      "price for 3-8 persons": 95,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Zaton, Zadarska županija, Croatia",
+      "km": 142,
+      "time": "01:55",
+      "price for 1-2 persons": 171,
+      "price for 3-8 persons": 191,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Zečevo, Croatia",
+      "km": 38,
+      "time": "00:40",
+      "price for 1-2 persons": 59,
+      "price for 3-8 persons": 69,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Žaborić, Croatia",
+      "km": 57,
+      "time": "00:50",
+      "price for 1-2 persons": 73,
+      "price for 3-8 persons": 83,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Živogošće, Croatia",
+      "km": 118,
+      "time": "01:45",
+      "price for 1-2 persons": 130,
+      "price for 3-8 persons": 150,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Supetar, Croatia",
+      "price for 1-2 persons": 120,
+      "price for 3-8 persons": 140,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Milna, Croatia",
+      "price for 1-2 persons": 150,
+      "price for 3-8 persons": 170,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Bol, Croatia",
+      "price for 1-2 persons": 170,
+      "price for 3-8 persons": 190,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Pučišća, Croatia",
+      "price for 1-2 persons": 130,
+      "price for 3-8 persons": 180,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Sumartin, Croatia",
+      "price for 1-2 persons": 170,
+      "price for 3-8 persons": 190,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Stari grad Hvar, Stari Grad, Croatia",
+      "price for 1-2 persons": 140,
+      "price for 3-8 persons": 155,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Jelsa, Croatia",
+      "price for 1-2 persons": 150,
+      "price for 3-8 persons": 170,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "Dropoff location": "Hvar, Croatia",
+      "price for 1-2 persons": 165,
+      "price for 3-8 persons": 180,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split locco",
+      "Dropoff location": "Transfer inside Split, from\/to hotel\/marina\/bus\/train",
+      "price for 1-2 persons": 20,
+      "price for 3-8 persons": 30,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split locco",
+      "Dropoff location": "Transfer inside Split, from\/to port (city center parking included)",
+      "price for 1-2 persons": 25,
+      "price for 3-8 persons": 35,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Vehicle & Driver",
+      "Dropoff location": "Price for 1 hour waiting",
+      "price for 1-2 persons": 25,
+      "price for 3-8 persons": 30,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Transfer",
+      "Dropoff location": "Price for 1 extra stop on the way to destination",
+      "price for 1-2 persons": 15,
+      "price for 3-8 persons": 20,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Dubrovnik Airport, Dobrota, Močići, Croatia",
+      "km": 253,
+      "time": "03:45",
+      "price for 1-2 persons": 305,
+      "price for 3-8 persons": 325,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Dubrovnik, Croatia",
+      "km": 235,
+      "time": "03:30",
+      "price for 1-2 persons": 279,
+      "price for 3-8 persons": 289,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Dugopolje, Croatia",
+      "km": 21,
+      "time": "00:30",
+      "price for 1-2 persons": 45,
+      "price for 3-8 persons": 50,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Brela, Croatia",
+      "km": 55,
+      "time": "01:00",
+      "price for 1-2 persons": 75,
+      "price for 3-8 persons": 85,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Čiovo, Croatia",
+      "km": 35,
+      "time": "00:50",
+      "price for 1-2 persons": 55,
+      "price for 3-8 persons": 65,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Island Čiovo (Okrug)",
+      "km": 37,
+      "time": "00:55",
+      "price for 1-2 persons": 57,
+      "price for 3-8 persons": 67,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Kaštela, Croatia",
+      "km": 16,
+      "time": "00:25",
+      "price for 1-2 persons": 35,
+      "price for 3-8 persons": 45,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Omiš, Croatia",
+      "km": 28,
+      "time": "00.40",
+      "price for 1-2 persons": 48,
+      "price for 3-8 persons": 58,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Makarska, Croatia",
+      "km": 70,
+      "time": "01:20",
+      "price for 1-2 persons": 85,
+      "price for 3-8 persons": 95,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Novalja, Croatia",
+      "km": 215,
+      "time": "03:30",
+      "price for 1-2 persons": 270,
+      "price for 3-8 persons": 290,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Plitvice Lakes National Park, Croatia",
+      "km": 248,
+      "time": "03:30",
+      "price for 1-2 persons": 310,
+      "price for 3-8 persons": 335,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Le Méridien Lav, Split, Split, Croatia",
+      "km": 12,
+      "time": "00:20",
+      "price for 1-2 persons": 35,
+      "price for 3-8 persons": 40,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Skradin, Croatia",
+      "km": 98,
+      "time": "01:40",
+      "price for 1-2 persons": 116,
+      "price for 3-8 persons": 131,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Šibenik, Croatia",
+      "km": 90,
+      "time": "01:30",
+      "price for 1-2 persons": 99,
+      "price for 3-8 persons": 114,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Trogir, Croatia",
+      "km": 30,
+      "time": "00:45",
+      "price for 1-2 persons": 55,
+      "price for 3-8 persons": 65,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Zadar Airport, Ulica I, Zemunik Donji, Croatia",
+      "km": 155,
+      "time": "02:00",
+      "price for 1-2 persons": 180,
+      "price for 3-8 persons": 190,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Zagreb Airport (ZAG), Ulica Rudolfa Fizira, Velika Gorica, Croatia",
+      "km": 443,
+      "time": "04:30",
+      "price for 1-2 persons": 460,
+      "price for 3-8 persons": 480,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Arbanija, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 9,
+      "time": "00:25",
+      "price for 1-2 persons": 32,
+      "price for 3-8 persons": 37,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Baška Voda, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 90,
+      "time": "01:20",
+      "price for 1-2 persons": 95,
+      "price for 3-8 persons": 105,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Baška, island of Krk",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 360,
+      "time": "04:10",
+      "price for 1-2 persons": 437,
+      "price for 3-8 persons": 497,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Bibinje, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 127,
+      "time": "01:50",
+      "price for 1-2 persons": 140,
+      "price for 3-8 persons": 160,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Biograd na moru, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 110,
+      "time": "01:35",
+      "price for 1-2 persons": 130,
+      "price for 3-8 persons": 145,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Bratuš, Krvavica, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 94,
+      "time": "01:30",
+      "price for 1-2 persons": 100,
+      "price for 3-8 persons": 115,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Brodarica, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 60,
+      "time": "00:55",
+      "price for 1-2 persons": 76,
+      "price for 3-8 persons": 86,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Brela, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 87,
+      "time": "01:15",
+      "price for 1-2 persons": 92,
+      "price for 3-8 persons": 102,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Budva, Montenegro",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 369,
+      "time": "06:00",
+      "price for 1-2 persons": 590,
+      "price for 3-8 persons": 670,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Cavtat, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 272,
+      "time": "04:15",
+      "price for 1-2 persons": 330,
+      "price for 3-8 persons": 370,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Crikvenica, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 301,
+      "time": "04:00",
+      "price for 1-2 persons": 383,
+      "price for 3-8 persons": 440,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Drage, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 99,
+      "time": "01:40",
+      "price for 1-2 persons": 109,
+      "price for 3-8 persons": 124,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Drašnice, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 110,
+      "time": "01:45",
+      "price for 1-2 persons": 120,
+      "price for 3-8 persons": 140,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Drvenik, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 126,
+      "time": "02:00",
+      "price for 1-2 persons": 135,
+      "price for 3-8 persons": 155,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Dubrovnik, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 254,
+      "time": "03:45",
+      "price for 1-2 persons": 285,
+      "price for 3-8 persons": 299,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Duće, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 42,
+      "time": "00:50",
+      "price for 1-2 persons": 62,
+      "price for 3-8 persons": 72,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Dugopolje, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 28,
+      "time": "00:40",
+      "price for 1-2 persons": 52,
+      "price for 3-8 persons": 57,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Dugi Rat, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 40,
+      "time": "00:55",
+      "price for 1-2 persons": 60,
+      "price for 3-8 persons": 70,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Gradac, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 137,
+      "time": "02:10",
+      "price for 1-2 persons": 145,
+      "price for 3-8 persons": 165,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Grebaštica, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 52,
+      "time": "01:00",
+      "price for 1-2 persons": 70,
+      "price for 3-8 persons": 80,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Igrane, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 115,
+      "time": "01:45",
+      "price for 1-2 persons": 125,
+      "price for 3-8 persons": 145,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Imotski, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 93,
+      "time": "02.00",
+      "price for 1-2 persons": 105,
+      "price for 3-8 persons": 120,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Jesenice,Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 35,
+      "time": "00:40",
+      "price for 1-2 persons": 56,
+      "price for 3-8 persons": 66,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Kaštela, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 10,
+      "time": "00:20",
+      "price for 1-2 persons": 32,
+      "price for 3-8 persons": 37,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Kaštela, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 12,
+      "time": "00:25",
+      "price for 1-2 persons": 34,
+      "price for 3-8 persons": 39,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Krk, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 344,
+      "time": "04:00",
+      "price for 1-2 persons": 490,
+      "price for 3-8 persons": 500,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Lokva Rogoznica, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 55,
+      "time": "01:00",
+      "price for 1-2 persons": 68,
+      "price for 3-8 persons": 78,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Lovran, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 426,
+      "time": "04:20",
+      "price for 1-2 persons": 520,
+      "price for 3-8 persons": 539,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Makarska, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 100,
+      "time": "01:40",
+      "price for 1-2 persons": 105,
+      "price for 3-8 persons": 120,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Marina, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 26,
+      "time": "00:35",
+      "price for 1-2 persons": 45,
+      "price for 3-8 persons": 50,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Mimice",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 56,
+      "time": "01:15",
+      "price for 1-2 persons": 71,
+      "price for 3-8 persons": 81,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Mostar, Bosnia and Hercegovina",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 194,
+      "time": "03:20",
+      "price for 1-2 persons": 210,
+      "price for 3-8 persons": 220,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Medjugorje, Bosnia and Hercegovina",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 167,
+      "time": "02:40",
+      "price for 1-2 persons": 190,
+      "price for 3-8 persons": 200,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Murter, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 95,
+      "time": "01:40",
+      "price for 1-2 persons": 105,
+      "price for 3-8 persons": 115,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Mutogras, Podstrana, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 35,
+      "time": "00:45",
+      "price for 1-2 persons": 52,
+      "price for 3-8 persons": 62,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Nin, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 145,
+      "time": "02:00",
+      "price for 1-2 persons": 170,
+      "price for 3-8 persons": 190,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Novalja, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 187,
+      "time": "02:30",
+      "price for 1-2 persons": 250,
+      "price for 3-8 persons": 270,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Omiš, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 48,
+      "time": "00:50",
+      "price for 1-2 persons": 65,
+      "price for 3-8 persons": 75,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Okrug, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 14,
+      "time": "00:30",
+      "price for 1-2 persons": 35,
+      "price for 3-8 persons": 40,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Opatija, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 413,
+      "time": "04:05",
+      "price for 1-2 persons": 509,
+      "price for 3-8 persons": 529,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Orebić, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 215,
+      "time": "04:00",
+      "price for 1-2 persons": 259,
+      "price for 3-8 persons": 289,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Pag, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 172,
+      "time": "02:00",
+      "price for 1-2 persons": 210,
+      "price for 3-8 persons": 220,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Pakoštane, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 107,
+      "time": "01:35",
+      "price for 1-2 persons": 125,
+      "price for 3-8 persons": 140,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Petrčane, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 141,
+      "time": "01:55",
+      "price for 1-2 persons": 167,
+      "price for 3-8 persons": 187,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Pisak, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 59,
+      "time": "01:05",
+      "price for 1-2 persons": 75,
+      "price for 3-8 persons": 85,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Pirovac, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 92,
+      "time": "01:40",
+      "price for 1-2 persons": 102,
+      "price for 3-8 persons": 112,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Plitvice Lakes National Park, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 225,
+      "time": "03:00",
+      "price for 1-2 persons": 289,
+      "price for 3-8 persons": 299,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Ploče, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 151,
+      "time": "01:50",
+      "price for 1-2 persons": 170,
+      "price for 3-8 persons": 180,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Podgora, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 106,
+      "time": "01:40",
+      "price for 1-2 persons": 115,
+      "price for 3-8 persons": 130,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Podstrana, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 30,
+      "time": "00:40",
+      "price for 1-2 persons": 50,
+      "price for 3-8 persons": 55,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Gornja Podstrana, Podstrana, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 35,
+      "time": "00:45",
+      "price for 1-2 persons": 52,
+      "price for 3-8 persons": 62,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Poljica, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 17,
+      "time": "00:20",
+      "price for 1-2 persons": 38,
+      "price for 3-8 persons": 43,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Poreč, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 475,
+      "time": "05:15",
+      "price for 1-2 persons": 635,
+      "price for 3-8 persons": 649,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Primošten, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 40,
+      "time": "00:45",
+      "price for 1-2 persons": 60,
+      "price for 3-8 persons": 70,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Promajna, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 92,
+      "time": "01:30",
+      "price for 1-2 persons": 97,
+      "price for 3-8 persons": 112,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Pula, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 491,
+      "time": "05:20",
+      "price for 1-2 persons": 640,
+      "price for 3-8 persons": 659,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Ražanj, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 35,
+      "time": "00:45",
+      "price for 1-2 persons": 55,
+      "price for 3-8 persons": 65,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Rogoznica, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 36,
+      "time": "00:40",
+      "price for 1-2 persons": 56,
+      "price for 3-8 persons": 66,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Rovinj, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 478,
+      "time": "05:15",
+      "price for 1-2 persons": 620,
+      "price for 3-8 persons": 635,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Rijeka, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 406,
+      "time": "04:15",
+      "price for 1-2 persons": 510,
+      "price for 3-8 persons": 530,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Sarajevo, Bosnia and Hercegovina",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 295,
+      "time": "04:30",
+      "price for 1-2 persons": 410,
+      "price for 3-8 persons": 420,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Seget Donji, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 9,
+      "time": "00:25",
+      "price for 1-2 persons": 32,
+      "price for 3-8 persons": 37,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Seget Vranjic, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 12,
+      "time": "00:30",
+      "price for 1-2 persons": 35,
+      "price for 3-8 persons": 40,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Sevid, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 34,
+      "time": "00:45",
+      "price for 1-2 persons": 53,
+      "price for 3-8 persons": 63,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Sinj, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 40,
+      "time": "00:45",
+      "price for 1-2 persons": 60,
+      "price for 3-8 persons": 70,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Skradin, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 77,
+      "time": "01:15",
+      "price for 1-2 persons": 87,
+      "price for 3-8 persons": 97,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Slano, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 221,
+      "time": "03:15",
+      "price for 1-2 persons": 270,
+      "price for 3-8 persons": 285,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Slatine, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 12,
+      "time": "00:30",
+      "price for 1-2 persons": 34,
+      "price for 3-8 persons": 39,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Solaris, Zablaće, Šibenik, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 65,
+      "time": "01:00",
+      "price for 1-2 persons": 79,
+      "price for 3-8 persons": 85,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Solin, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 20,
+      "time": "00:30",
+      "price for 1-2 persons": 38,
+      "price for 3-8 persons": 42,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Ferry Port of Split, Gat Sv. Petra, Split, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 26,
+      "time": "00:40",
+      "price for 1-2 persons": 45,
+      "price for 3-8 persons": 50,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 24,
+      "time": "00:35",
+      "price for 1-2 persons": 45,
+      "price for 3-8 persons": 49,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Srima, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 80,
+      "time": "01:20",
+      "price for 1-2 persons": 90,
+      "price for 3-8 persons": 100,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Stanići, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 52,
+      "time": "01:00",
+      "price for 1-2 persons": 67,
+      "price for 3-8 persons": 77,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Sukošan, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 125,
+      "time": "01:45",
+      "price for 1-2 persons": 138,
+      "price for 3-8 persons": 153,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Sumpetar, Jesenice, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 37,
+      "time": "00:45",
+      "price for 1-2 persons": 58,
+      "price for 3-8 persons": 68,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Starigrad Paklenica, Starigrad, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 159,
+      "time": "02:00",
+      "price for 1-2 persons": 187,
+      "price for 3-8 persons": 217,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Stobreč, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 25,
+      "time": "00:40",
+      "price for 1-2 persons": 43,
+      "price for 3-8 persons": 48,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Ston, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 200,
+      "time": "03:00",
+      "price for 1-2 persons": 259,
+      "price for 3-8 persons": 260,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Šibenik, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 70,
+      "time": "01:00",
+      "price for 1-2 persons": 80,
+      "price for 3-8 persons": 90,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Tisno, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 89,
+      "time": "01:30",
+      "price for 1-2 persons": 109,
+      "price for 3-8 persons": 119,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Tribunj, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 85,
+      "time": "01:20",
+      "price for 1-2 persons": 95,
+      "price for 3-8 persons": 105,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Trogir, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 6,
+      "time": "00:20",
+      "price for 1-2 persons": 30,
+      "price for 3-8 persons": 35,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Tučepi, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 103,
+      "time": "01:40",
+      "price for 1-2 persons": 110,
+      "price for 3-8 persons": 125,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Umag, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 488,
+      "time": "05:10",
+      "price for 1-2 persons": 630,
+      "price for 3-8 persons": 675,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Vinišće, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 35,
+      "time": "00:45",
+      "price for 1-2 persons": 52,
+      "price for 3-8 persons": 62,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Vodice, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 82,
+      "time": "01:15",
+      "price for 1-2 persons": 92,
+      "price for 3-8 persons": 102,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Zadar, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 140,
+      "time": "01:50",
+      "price for 1-2 persons": 170,
+      "price for 3-8 persons": 180,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Zagreb, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 415,
+      "time": "04:15",
+      "price for 1-2 persons": 450,
+      "price for 3-8 persons": 465,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Zaton, Dubrovnik, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 246,
+      "time": "03:30",
+      "price for 1-2 persons": 290,
+      "price for 3-8 persons": 310,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Zaton, Šibensko-kninska županija, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 75,
+      "time": "01:10",
+      "price for 1-2 persons": 85,
+      "price for 3-8 persons": 95,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Zaton, Zadarska županija, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 142,
+      "time": "01:55",
+      "price for 1-2 persons": 171,
+      "price for 3-8 persons": 191,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Zečevo, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 38,
+      "time": "00:40",
+      "price for 1-2 persons": 59,
+      "price for 3-8 persons": 69,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Žaborić, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 57,
+      "time": "00:50",
+      "price for 1-2 persons": 73,
+      "price for 3-8 persons": 83,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Živogošće, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "km": 118,
+      "time": "01:45",
+      "price for 1-2 persons": 130,
+      "price for 3-8 persons": 150,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Supetar, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "price for 1-2 persons": 120,
+      "price for 3-8 persons": 140,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Milna, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "price for 1-2 persons": 150,
+      "price for 3-8 persons": 170,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Bol, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "price for 1-2 persons": 170,
+      "price for 3-8 persons": 190,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Pučišća, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "price for 1-2 persons": 130,
+      "price for 3-8 persons": 180,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Sumartin, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "price for 1-2 persons": 170,
+      "price for 3-8 persons": 190,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Stari grad Hvar, Stari Grad, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "price for 1-2 persons": 140,
+      "price for 3-8 persons": 155,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Jelsa, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "price for 1-2 persons": 150,
+      "price for 3-8 persons": 170,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Hvar, Croatia",
+      "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
+      "price for 1-2 persons": 165,
+      "price for 3-8 persons": 180,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Dubrovnik Airport, Dobrota, Močići, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 253,
+      "time": "03:45",
+      "price for 1-2 persons": 305,
+      "price for 3-8 persons": 325,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Dubrovnik, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 235,
+      "time": "03:30",
+      "price for 1-2 persons": 279,
+      "price for 3-8 persons": 289,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Dugopolje, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 21,
+      "time": "00:30",
+      "price for 1-2 persons": 45,
+      "price for 3-8 persons": 50,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Brela, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 55,
+      "time": "01:00",
+      "price for 1-2 persons": 75,
+      "price for 3-8 persons": 85,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Čiovo, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 35,
+      "time": "00:50",
+      "price for 1-2 persons": 55,
+      "price for 3-8 persons": 65,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Island Čiovo (Okrug)",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 37,
+      "time": "00:55",
+      "price for 1-2 persons": 57,
+      "price for 3-8 persons": 67,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Kaštela, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 16,
+      "time": "00:25",
+      "price for 1-2 persons": 35,
+      "price for 3-8 persons": 45,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Omiš, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 28,
+      "time": "00.40",
+      "price for 1-2 persons": 48,
+      "price for 3-8 persons": 58,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Makarska, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 70,
+      "time": "01:20",
+      "price for 1-2 persons": 85,
+      "price for 3-8 persons": 95,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Novalja, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 215,
+      "time": "03:30",
+      "price for 1-2 persons": 270,
+      "price for 3-8 persons": 290,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Plitvice Lakes National Park, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 248,
+      "time": "03:30",
+      "price for 1-2 persons": 310,
+      "price for 3-8 persons": 335,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Le Méridien Lav, Split, Split, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 12,
+      "time": "00:20",
+      "price for 1-2 persons": 35,
+      "price for 3-8 persons": 40,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Skradin, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 98,
+      "time": "01:40",
+      "price for 1-2 persons": 116,
+      "price for 3-8 persons": 131,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Šibenik, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 90,
+      "time": "01:30",
+      "price for 1-2 persons": 99,
+      "price for 3-8 persons": 114,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Trogir, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 30,
+      "time": "00:45",
+      "price for 1-2 persons": 55,
+      "price for 3-8 persons": 65,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Zadar Airport, Ulica I, Zemunik Donji, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 155,
+      "time": "02:00",
+      "price for 1-2 persons": 180,
+      "price for 3-8 persons": 190,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Zagreb Airport (ZAG), Ulica Rudolfa Fizira, Velika Gorica, Croatia",
+      "Dropoff location": "Split Center, Ulica Augusta Harambašića, Split, Croatia",
+      "km": 443,
+      "time": "04:30",
+      "price for 1-2 persons": 460,
+      "price for 3-8 persons": 480,
+      "price for 9-14 persons": "On request"
+     },
+
+     {
+      "Pickup location": "Split center",
+      "Dropoff location": "Dubrovnik (old town)",
+      "price for 1-2 persons": 340,
+      "price for 3-8 persons": 390,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split center",
+      "Dropoff location": "National park Krka waterfalls (+Trogir or Šibenik)",
+      "price for 1-2 persons": 200,
+      "price for 3-8 persons": 260,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split center",
+      "Dropoff location": "National park Plitvice lakes",
+      "price for 1-2 persons": 360,
+      "price for 3-8 persons": 400,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split center",
+      "Dropoff location": "Medjugorje, spiritual place in Bosnia and Hercegovina",
+      "price for 1-2 persons": 300,
+      "price for 3-8 persons": 340,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split center",
+      "Dropoff location": "Mostar, Bosnia and Hercegovina",
+      "price for 1-2 persons": 340,
+      "price for 3-8 persons": 390,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split center",
+      "Dropoff location": "Kravice waterfalls, Bosnia and Hercegovina",
+      "price for 1-2 persons": 340,
+      "price for 3-8 persons": 390,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split center",
+      "Dropoff location": "Sarajevo, Bosnia and Hercegovina",
+      "price for 1-2 persons": 520,
+      "price for 3-8 persons": 590,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split center",
+      "Dropoff location": "Zadar (old town) + Šibenik",
+      "price for 1-2 persons": 280,
+      "price for 3-8 persons": 320,
+      "price for 9-14 persons": "On request"
+     },
+     {
+      "Pickup location": "Split center",
+      "Dropoff location": "Salona, Klis, Trogir, Omiš (for one of locations)",
+      "price for 1-2 persons": 130,
+      "price for 3-8 persons": 150,
+      "price for 9-14 persons": "On request"
+     }
+     
+    ]
+}
