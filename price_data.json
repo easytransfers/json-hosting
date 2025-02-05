@@ -281,7 +281,7 @@
      },
      {
       "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
-      "Dropoff location": "Mostar, Bosnia and Hercegovina",
+      "Dropoff location": "Mostar, Bosnia and Herzegovina",
       "km": 194,
       "time": "03:20",
       "price for 1-2 persons": 210,
@@ -290,7 +290,7 @@
      },
      {
       "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
-      "Dropoff location": "Međugorje, Bosnia and Hercegovina",
+      "Dropoff location": "Međugorje, Bosnia and Herzegovina",
       "km": 167,
       "time": "02:40",
       "price for 1-2 persons": 190,
@@ -542,7 +542,7 @@
      },
      {
       "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
-      "Dropoff location": "Sarajevo, Bosnia and Hercegovina",
+      "Dropoff location": "Sarajevo, Bosnia and Herzegovina",
       "km": 295,
       "time": "04:30",
       "price for 1-2 persons": 410,
@@ -1372,7 +1372,7 @@
       "price for 9-14 persons": "On request"
      },
      {
-      "Pickup location": "Mostar, Bosnia and Hercegovina",
+      "Pickup location": "Mostar, Bosnia and Herzegovina",
       "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
       "km": 194,
       "time": "03:20",
@@ -1381,7 +1381,7 @@
       "price for 9-14 persons": "On request"
      },
      {
-      "Pickup location": "Međugorje, Bosnia and Hercegovina",
+      "Pickup location": "Međugorje, Bosnia and Herzegovina",
       "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
       "km": 167,
       "time": "02:40",
@@ -1633,7 +1633,7 @@
       "price for 9-14 persons": "On request"
      },
      {
-      "Pickup location": "Sarajevo, Bosnia and Hercegovina",
+      "Pickup location": "Sarajevo, Bosnia and Herzegovina",
       "Dropoff location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
       "km": 295,
       "time": "04:30",
@@ -2180,7 +2180,7 @@
      },
      {
       "Pickup location": "Split center",
-      "Dropoff location": "Medjugorje, spiritual place in Bosnia and Hercegovina",
+      "Dropoff location": "Međugorje, spiritual place in Bosnia and Hercegovina",
       "price for 1-2 persons": 300,
       "price for 3-8 persons": 340,
       "price for 9-14 persons": "On request"
