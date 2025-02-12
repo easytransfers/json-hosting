@@ -1,65 +1,85 @@
-[
-    {
-        "Pickup location": "Split",
-        "Dropoff location": "Dubrovnik",
-        "price for 1-2 persons": 340,
-        "price for 3-8 persons": 390,
-        "price for 9-14 persons": "On request"
-    },
-    {
-        "Pickup location": "Split center",
-        "Dropoff location": "National park Krka waterfalls (+Trogir or Šibenik)",
-        "price for 1-2 persons": 200,
-        "price for 3-8 persons": 260,
-        "price for 9-14 persons": "On request"
-    },
-    {
-        "Pickup location": "Split center",
-        "Dropoff location": "National park Plitvice lakes",
-        "price for 1-2 persons": 360,
-        "price for 3-8 persons": 400,
-        "price for 9-14 persons": "On request"
-    },
-    {
-        "Pickup location": "Split center",
-        "Dropoff location": "Međugorje, spiritual place in Bosnia and Hercegovina",
-        "price for 1-2 persons": 300,
-        "price for 3-8 persons": 340,
-        "price for 9-14 persons": "On request"
-    },
-    {
-        "Pickup location": "Split center",
-        "Dropoff location": "Mostar, Bosnia and Hercegovina",
-        "price for 1-2 persons": 340,
-        "price for 3-8 persons": 390,
-        "price for 9-14 persons": "On request"
-    },
-    {
-        "Pickup location": "Split center",
-        "Dropoff location": "Kravice waterfalls, Bosnia and Hercegovina",
-        "price for 1-2 persons": 340,
-        "price for 3-8 persons": 390,
-        "price for 9-14 persons": "On request"
-    },
-    {
-        "Pickup location": "Split center",
-        "Dropoff location": "Sarajevo, Bosnia and Hercegovina",
-        "price for 1-2 persons": 520,
-        "price for 3-8 persons": 590,
-        "price for 9-14 persons": "On request"
-    },
-    {
-        "Pickup location": "Split center",
-        "Dropoff location": "Zadar (old town) + Šibenik",
-        "price for 1-2 persons": 280,
-        "price for 3-8 persons": 320,
-        "price for 9-14 persons": "On request"
-    },
-    {
-        "Pickup location": "Split center",
-        "Dropoff location": "Salona, Klis, Trogir, Omiš (for one of locations)",
-        "price for 1-2 persons": 130,
-        "price for 3-8 persons": 150,
-        "price for 9-14 persons": "On request"
+{
+    "excursions": {
+        "Dubrovnik": {
+            "pickup": "Split",
+            "dropoff": "Dubrovnik",
+            "prices": {
+                "1-2": 340,
+                "3-8": 390,
+                "9-14": "On request"
+            }
+        },
+        "Krka": {
+            "pickup": "Split center",
+            "dropoff": "National park Krka waterfalls (+Trogir or Šibenik)",
+            "prices": {
+                "1-2": 200,
+                "3-8": 260,
+                "9-14": "On request"
+            }
+        },
+        "Plitvice": {
+            "pickup": "Split center",
+            "dropoff": "National park Plitvice lakes",
+            "prices": {
+                "1-2": 360,
+                "3-8": 400,
+                "9-14": "On request"
+            }
+        },
+        "Medjugorje": {
+            "pickup": "Split center",
+            "dropoff": "Međugorje, spiritual place in Bosnia and Hercegovina",
+            "prices": {
+                "1-2": 300,
+                "3-8": 340,
+                "9-14": "On request"
+            }
+        },
+        "Mostar": {
+            "pickup": "Split center",
+            "dropoff": "Mostar, Bosnia and Hercegovina",
+            "prices": {
+                "1-2": 340,
+                "3-8": 390,
+                "9-14": "On request"
+            }
+        },
+        "Kravice": {
+            "pickup": "Split center",
+            "dropoff": "Kravice waterfalls, Bosnia and Hercegovina",
+            "prices": {
+                "1-2": 340,
+                "3-8": 390,
+                "9-14": "On request"
+            }
+        },
+        "Sarajevo": {
+            "pickup": "Split center",
+            "dropoff": "Sarajevo, Bosnia and Hercegovina",
+            "prices": {
+                "1-2": 520,
+                "3-8": 590,
+                "9-14": "On request"
+            }
+        },
+        "Zadar": {
+            "pickup": "Split center",
+            "dropoff": "Zadar (old town) + Šibenik",
+            "prices": {
+                "1-2": 280,
+                "3-8": 320,
+                "9-14": "On request"
+            }
+        },
+        "LocalTour": {
+            "pickup": "Split center",
+            "dropoff": "Salona, Klis, Trogir, Omiš (for one of locations)",
+            "prices": {
+                "1-2": 130,
+                "3-8": 150,
+                "9-14": "On request"
+            }
+        }
     }
-]
+}
