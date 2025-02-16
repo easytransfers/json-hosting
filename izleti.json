@@ -22,8 +22,8 @@
             "pickup": "Split center",
             "dropoff": "National park Plitvice lakes",
             "prices": {
-                "1-2": 360,
-                "3-8": 400,
+                "1-2": 330,
+                "3-8": 360,
                 "9-14": "On request"
             }
         },
@@ -31,25 +31,16 @@
             "pickup": "Split center",
             "dropoff": "Međugorje, spiritual place in Bosnia and Hercegovina",
             "prices": {
-                "1-2": 300,
-                "3-8": 340,
-                "9-14": "On request"
-            }
-        },
-        "Mostar": {
-            "pickup": "Split center",
-            "dropoff": "Mostar, Bosnia and Hercegovina",
-            "prices": {
-                "1-2": 340,
-                "3-8": 390,
+                "1-2": 250,
+                "3-8": 300,
                 "9-14": "On request"
             }
         },
         "Kravice": {
             "pickup": "Split center",
-            "dropoff": "Kravice waterfalls, Bosnia and Hercegovina",
+            "dropoff": "Mostar, Kravice waterfalls, Bosnia and Hercegovina",
             "prices": {
-                "1-2": 340,
+                "1-2": 350,
                 "3-8": 390,
                 "9-14": "On request"
             }
@@ -58,8 +49,8 @@
             "pickup": "Split center",
             "dropoff": "Sarajevo, Bosnia and Hercegovina",
             "prices": {
-                "1-2": 520,
-                "3-8": 590,
+                "1-2": 400,
+                "3-8": 450,
                 "9-14": "On request"
             }
         },
@@ -67,8 +58,8 @@
             "pickup": "Split center",
             "dropoff": "Zadar (old town) + Šibenik",
             "prices": {
-                "1-2": 280,
-                "3-8": 320,
+                "1-2": 250,
+                "3-8": 290,
                 "9-14": "On request"
             }
         },
@@ -76,8 +67,8 @@
             "pickup": "Split center",
             "dropoff": "Salona, Klis, Trogir, Omiš (for one of locations)",
             "prices": {
-                "1-2": 130,
-                "3-8": 150,
+                "1-2": 140,
+                "3-8": 160,
                 "9-14": "On request"
             }
         }
