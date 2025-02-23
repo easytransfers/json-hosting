@@ -1,6 +1,6 @@
 {
     "excursions": {
-        "Dubrovnik": {
+        "Dubrovnik & Ston Day Tour": {
             "pickup": "Split",
             "dropoff": "Dubrovnik",
             "prices": {
@@ -9,7 +9,7 @@
                 "9-14": "On request"
             }
         },
-        "Krka": {
+        "Private Krka Waterfall & Šibenik Day Tour": {
             "pickup": "Split center",
             "dropoff": "National park Krka waterfalls (+Trogir or Šibenik)",
             "prices": {
@@ -18,7 +18,7 @@
                 "9-14": "On request"
             }
         },
-        "Plitvice": {
+        "Private Plitvice Lakes Day Tour": {
             "pickup": "Split center",
             "dropoff": "National park Plitvice lakes",
             "prices": {
@@ -27,7 +27,7 @@
                 "9-14": "On request"
             }
         },
-        "Medjugorje": {
+        "Spiritual place Međugorje Day Tour (BiH)": {
             "pickup": "Split center",
             "dropoff": "Međugorje, spiritual place in Bosnia and Hercegovina",
             "prices": {
@@ -36,7 +36,7 @@
                 "9-14": "On request"
             }
         },
-        "Kravice": {
+        "Private Mostar & Waterfalls Day Tour (BiH)": {
             "pickup": "Split center",
             "dropoff": "Mostar, Kravice waterfalls, Bosnia and Hercegovina",
             "prices": {
@@ -54,7 +54,7 @@
                 "9-14": "On request"
             }
         },
-        "Zadar": {
+        "Zadar (old town) + Šibenik": {
             "pickup": "Split center",
             "dropoff": "Zadar (old town) + Šibenik",
             "prices": {
@@ -63,7 +63,7 @@
                 "9-14": "On request"
             }
         },
-        "LocalTour": {
+        "Salona, Klis, Trogir, Omiš (for one of locations)": {
             "pickup": "Split center",
             "dropoff": "Salona, Klis, Trogir, Omiš (for one of locations)",
             "prices": {
