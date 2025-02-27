@@ -54,7 +54,7 @@
                 "9-14": "On request"
             }
         },
-        "Zadar (old town) + Šibenik": {
+        "Zadar (old town) & Šibenik": {
             "pickup": "Split center",
             "dropoff": "Zadar (old town) + Šibenik",
             "prices": {
@@ -63,7 +63,7 @@
                 "9-14": "On request"
             }
         },
-        "Salona, Klis, Trogir, Omiš (for one of locations)": {
+        "Salona, Klis, Trogir or Omiš (for one of locations)": {
             "pickup": "Split center",
             "dropoff": "Salona, Klis, Trogir, Omiš (for one of locations)",
             "prices": {
