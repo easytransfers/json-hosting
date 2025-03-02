@@ -54,9 +54,9 @@
                 "9-14": "On request"
             }
         },
-        "Zadar (old town) & Šibenik": {
+        "Zadar & Klis Fortress": {
             "pickup": "Split center",
-            "dropoff": "Zadar (old town) + Šibenik",
+            "dropoff": "Klis Fortress",
             "prices": {
                 "1-2": 250,
                 "3-8": 290,
