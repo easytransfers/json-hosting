@@ -792,6 +792,24 @@
       "price for 3-8 persons": 180,
       "price for 9-14 persons": "On request"
      },
+         {
+      "Pickup location": "Zadar, Croatia",
+      "Dropoff location": "Split, Croatia",
+      "km": 140,
+      "time": "01:50",
+      "price for 1-2 persons": 170,
+      "price for 3-8 persons": 180,
+      "price for 9-14 persons": "On request"
+     },
+         {
+      "Pickup location": "Split, Croatia",
+      "Dropoff location": "Zadar, Croatia",
+      "km": 140,
+      "time": "01:50",
+      "price for 1-2 persons": 170,
+      "price for 3-8 persons": 180,
+      "price for 9-14 persons": "On request"
+     },
      {
       "Pickup location": "Split Airport, Cesta Doktor Franje Tuđmana, Kaštel Štafilić, Croatia",
       "Dropoff location": "Zagreb, Croatia",
