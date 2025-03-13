@@ -4,8 +4,8 @@
             "pickup": "Split",
             "dropoff": "Dubrovnik",
             "prices": {
-                "1-2": 340,
-                "3-8": 390,
+                "1-2": 5,
+                "3-8": 5,
                 "9-14": "On request"
             }
         },
